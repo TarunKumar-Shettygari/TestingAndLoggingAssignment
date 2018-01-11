@@ -1,0 +1,14 @@
+Stapler Unit Test Cases:
+
+1.Load stapler with full pins.
+2.Load stapler with few pins.
+3.Load stapler with zero pins.
+4.Load stapler with pins more than the limit.
+5.Load stapler with smaller size pins.
+6.Load stapler with larger size pins.
+7.Check working of spring in all the above cases.
+8.Stapple few papers.
+9.Stapple many papers.
+10.Stapple papers more than the limit.
+11.Stapple without pins.
+12.Stapple thick papers or cardboard.
